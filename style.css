@@ -1,0 +1,46 @@
+body {
+	 background-image: url('https://media1.tenor.com/m/lC0M8mVTOssAAAAC/vr-virtual-reality.gif');
+            background-size: cover;
+    }
+	header {
+		margin: 20px;
+		text-align:center;
+	}
+	h1 {
+		color: white;
+		background-color:black;
+		border:gray 20px ridge;
+		padding:30px;
+	}
+	h2 {
+		color: white;
+		background-color:darkgrey;
+		margin-left:200px;
+		margin-right:200px;
+		border:grey 30px groove;
+		padding:20px;
+	
+	}
+	div {
+		text-align: center;
+		position:relative;
+	
+	}
+	#pc {
+		color:white;
+		position:absolute;
+		bottom:1px;
+		left:50%;
+		transform: translate(-50%, -50%);
+	}
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width:400;
+		border:black 10px solid;
+		filter:drop-shadow(8px 8px 10px white);
+		border-radius: 30%;
+		
+	
+	}
